@@ -92,7 +92,3 @@ Result (Loops Method): [[19.0, 22.0], [43.0, 50.0]]
 ## License
 
 This project is for educational and benchmarking purposes.
-
----
-
-**Enjoy experimenting with sentiment analysis, matrix math, and neural network benchmarking!**
